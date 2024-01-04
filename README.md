@@ -1,6 +1,6 @@
  👋 Hi, I’m @Glory-coder11
 - 👀 I’m interested in html/css, javascript
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me: dm me on discord.
 
 
